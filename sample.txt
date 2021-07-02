@@ -1,1 +1,5 @@
 This is for learning code.
+ Today i have learn
+	what is version control system : this is a software tool that helps the software team to manage thier project overtime
+	git command:
+	1.git init 2.git add simple.html 3.git commit -m "This is sample website" 4.to remote path>clt+v from the github 5. git push -u origin master
